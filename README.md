@@ -6,6 +6,7 @@ This repository is a fork of the original project [Springboot-CI-CD-Pipeline](ht
 
 ## This is cool possilibilites for :
 
+* – great for daily practice and skill improvement
 * Exploring and understanding the **CI/CD pipeline** for Spring Boot applications.
 * Testing **Dockerizing the application** and running it locally.
 * Learning about **deployment on AWS ECS/Fargate** and container management.
