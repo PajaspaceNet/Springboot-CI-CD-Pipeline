@@ -4,13 +4,13 @@
 
 This repository is a fork of the original project [Springboot-CI-CD-Pipeline](https://github.com/DharshiBalasubramaniyam/Springboot-CI-CD-Pipeline).
 
-## What I did:
+## This is cool possilibilites for :
 
-* Explored and understood the **CI/CD pipeline** for Spring Boot applications.
-* Tested **Dockerizing the application** and running it locally.
-* Learned about **deployment on AWS ECS/Fargate** and container management.
-* Studied the integration of **Spring Boot with AWS services** (ECR, CloudWatch, IAM).
-* Made small experimental changes for testing deployment and logging.
+* Exploring and understanding the **CI/CD pipeline** for Spring Boot applications.
+* Testing **Dockerizing the application** and running it locally.
+* Learning about **deployment on AWS ECS/Fargate** and container management.
+* Studying the integration of **Spring Boot with AWS services** (ECR, CloudWatch, IAM).
+* Making small experimental changes for testing deployment and logging.
 
 > This fork is primarily for **studying DevOps and deployment processes**, and is not intended for production use.
 
